@@ -106,6 +106,10 @@ handleSelected(event) {
 }
 ```
 
+**Output:**
+
+![output](https://github.com/Nisar-99/Salesforce-LWC-Custom-Lookup/blob/master/lookup.jpg)
+
 **Notes:**
 
 >When Lookup with Created mode: the `Event` and `Task` objects are not supported. This limitation also applies to a record that references a field that belongs to an unsupported object.
